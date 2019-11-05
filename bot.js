@@ -2,7 +2,6 @@
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const myid = ['491298348976963606'];
-const myid = ['357140534529359883'];
 const prefix = ['S'];
 
 client.on('ready', () => {
